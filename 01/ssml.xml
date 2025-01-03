@@ -1,0 +1,12 @@
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"8b8dfa1b-b07b-4fa8-b47f-c90666bc2488","Name":"Microsoft Server Speech Text to Speech Voice (en-US, AndrewMultilingualNeural)","ShortName":"en-US-AndrewMultilingualNeural","Locale":"en-US","VoiceType":"StandardVoice"},{"Id":"090b3817-3fe2-4c37-8c5f-025db1335032","Name":"Microsoft Server Speech Text to Speech Voice (vi-VN, HoaiMyNeural)","ShortName":"vi-VN-HoaiMyNeural","Locale":"vi-VN","VoiceType":"StandardVoice"}]}-->
+<!--ID=FCB40C2B-1F9F-4C26-B1A1-CF8E67BE07D1;Version=1|{"Files":{}}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"vi-VN":{"AutoApplyCustomLexiconFiles":[{}]},"de-DE":{"AutoApplyCustomLexiconFiles":[{}]},"en-US":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US"><voice name="en-US-AndrewMultilingualNeural">Chào Lan! Mình là James, đến từ Hoa Kỳ. Rất vui được gặp bạn.</voice>
+<voice name="vi-VN-HoaiMyNeural">Chào James! Mình là Lan, đến từ Việt Nam. Rất vui được làm quen với bạn.</voice>
+<voice name="en-US-AndrewMultilingualNeural">Bạn làm nghề gì vậy, Lan?</voice>
+<voice name="vi-VN-HoaiMyNeural">Mình là cô giáo dạy ngoại ngữ. Còn bạn?</voice>
+<voice name="en-US-AndrewMultilingualNeural">Mình là kỹ sư hàng không.</voice>
+<voice name="vi-VN-HoaiMyNeural">Nghe thú vị quá! Bạn đến Việt Nam lâu chưa?</voice>
+<voice name="en-US-AndrewMultilingualNeural">Mình mới đến đây được vài ngày.</voice>
+<voice name="vi-VN-HoaiMyNeural">Hy vọng bạn sẽ thích Việt Nam!</voice>
+<voice name="en-US-AndrewMultilingualNeural">Cảm ơn Lan!</voice></speak>
